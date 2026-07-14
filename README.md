@@ -98,11 +98,7 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aniaanaii2004&show_icons=true&theme=rose&hide_border=true&bg_color=FFF0F5&title_color=E88DBB&icon_color=E88DBB&text_color=6B4C5A&ring_color=E88DBB" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniaanaii2004&layout=donut-vertical&theme=rose&hide_border=true&bg_color=FFF0F5&title_color=E88DBB&text_color=6B4C5A&langs_count=8" />
-</p>
+
 
 <p align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=aniaanaii2004&theme=rose&hide_border=true&background=FFF0F5&ring=E88DBB&fire=FF85A2&currStreakLabel=E88DBB&sideLabels=6B4C5A&dates=D4A0B0" />
@@ -114,13 +110,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aniaanaii2004&theme=rose&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%" />
-</p>
-
----
 
 ### 🦋 Contribution Snake
 
