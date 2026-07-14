@@ -23,10 +23,7 @@
   </a>
 </p>
 
-<!-- Rainbow divider -->
-<p align="center">
-  <img src="https://i.imgur.com/dNb6jxW.gif" width="400" />
-</p>
+<p align="center">🌸 ✨ 🌸 ✨ 🌸</p>
 
 ---
 
@@ -56,13 +53,6 @@
   <img src="https://img.shields.io/badge/React-87%25-F0B6D4?style=flat-square&logo=react&logoColor=black&labelColor=61DAFB" />
   <img src="https://img.shields.io/badge/Python-82%25-E8A0BF?style=flat-square&logo=python&logoColor=white&labelColor=3776AB" />
   <img src="https://img.shields.io/badge/Figma-93%25-FFB7D5?style=flat-square&logo=figma&logoColor=white&labelColor=F24E1E" />
-</p>
-
----
-
-<!-- Animated divider -->
-<p align="center">
-  <img src="https://i.imgur.com/9vOqT7A.gif" width="350" />
 </p>
 
 ---
@@ -111,13 +101,6 @@
 
 ---
 
-<!-- Animated divider -->
-<p align="center">
-  <img src="https://i.imgur.com/cYSnqsF.gif" width="350" />
-</p>
-
----
-
 ### 📊 GitHub Analytics
 
 <p align="center">
@@ -132,13 +115,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniaanaii2004&bg_color=FFF0F5&color=E88DBB&line=FF85A2&point=DDA0DD&area=true&hide_border=true&radius=8" width="100%" />
-</p>
-
----
-
-<!-- Animated divider -->
-<p align="center">
-  <img src="https://i.imgur.com/dNb6jxW.gif" width="400" />
 </p>
 
 ---
@@ -158,13 +134,6 @@
   <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/aniaanaii2004/aniaanaii2004/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/aniaanaii2004/aniaanaii2004/output/github-snake-dark.svg" />
 </picture>
-
----
-
-<!-- Animated divider -->
-<p align="center">
-  <img src="https://i.imgur.com/9vOqT7A.gif" width="350" />
-</p>
 
 ---
 
