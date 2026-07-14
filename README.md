@@ -20,15 +20,15 @@
   <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJ5NnI2NHJsdXh4Y3hoY3E4cDhtNnI0OW82aDNtaXl6dHpydXk0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tPplGWjN0xLyJ3iM/giphy.gif" width="260" height="200" />
 </p>
 
-🙋‍♀️ Hey! I'm **Ania** 💕
+🙋‍♀️ Hey! I'm **Ania** 
 
-🎓 Computer Engineering student & creative soul ✨
+🎓 Computer Engineering student & creative soul 
 
-💻 I work with **Python**, **JavaScript**, **TypeScript**, **React** and **Next.js** 🌷
+💻 I work with **Python**, **JavaScript**, **TypeScript**, **React** and **Next.js** 
 
-🎨 I'm a UI/UX designer who loves making beautiful interfaces 💖
+🎨 I'm a UI/UX designer who loves making beautiful interfaces 
 
-🌱 Always learning something new and dreaming big 🦋
+🌱 Always learning something new and dreaming big 
 
 ---
 
@@ -82,17 +82,17 @@
     <td align="center" width="180">
       <img src="https://cdn-icons-png.flaticon.com/512/3159/3159310.png" width="60" height="60" /><br />
       <b>Task Manager</b><br />
-      <sub>Next.js 16 🌸</sub>
+      <sub>Next.js 16 </sub>
     </td>
     <td align="center" width="180">
       <img src="https://cdn-icons-png.flaticon.com/512/2331/2331970.png" width="60" height="60" /><br />
       <b>Design System</b><br />
-      <sub>UI Components 💕</sub>
+      <sub>UI Components </sub>
     </td>
     <td align="center" width="180">
       <img src="https://cdn-icons-png.flaticon.com/512/2620/2620636.png" width="60" height="60" /><br />
       <b>Animations</b><br />
-      <sub>Cute Effects ✨</sub>
+      <sub>Cute Effects </sub>
     </td>
   </tr>
 </table>
