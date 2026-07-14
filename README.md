@@ -4,12 +4,7 @@
   </a>
 </p>
 
-<p align="center">
-  <!-- Hand wave -->
-  <a href="https://github.com/aniaanaii2004">
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300" />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/aniaanaii2004?tab=followers">
@@ -173,8 +168,3 @@
 
 ---
 
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRrN3NmeXNzYmRvOWxhZXZkeXV0NWk1dGgycDJnNTk0ZGx0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYt5jPR6QX5pnqM/giphy.gif" width="60" />
-</p>
