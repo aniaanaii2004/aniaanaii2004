@@ -28,15 +28,15 @@
   <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BwOGd4cDBqZWxzZm9tbHJuYTJzNjBjNXF6Z2FoYjZ5NGI1ZHNqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="280" height="220" />
 </p>
 
-> 🌷 **Hey there! I'm Ania** 💕
+> 🌷 **Hey there! I'm Ania** 
 >
-> 🎓 Computer Engineering student who loves turning ideas into beautiful digital experiences ✨
+> 🎓 Computer Engineering student who loves turning ideas into beautiful digital experiences 
 >
 > 💻 I work with **Python**, **JavaScript**, **TypeScript**, **React** & **Next.js**
 >
-> 🎨 UI/UX Designer — I believe great design is invisible but unforgettable 💖
+> 🎨 UI/UX Designer — I believe great design is invisible but unforgettable 
 >
-> 🌱 Currently exploring the world of creative animations & AI-powered interfaces 🦋
+> 🌱 Currently exploring the world of creative animations & AI-powered interfaces 
 >
 > 💭 _"Code is poetry, and I'm just writing my verses"_
 
